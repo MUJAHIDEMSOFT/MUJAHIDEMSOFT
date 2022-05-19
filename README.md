@@ -66,7 +66,7 @@
 
 ## Connect with me:
 
-<p align="left">
+<p align="center">
 
 <a href = "https://www.linkedin.com/in/mujahid-hussain001/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/_it_z_mujahid/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
